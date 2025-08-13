@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div style={{ textAlign: 'center', padding: '20px' }}>
       <h1>Hello React!</h1>
-      {/* 传递属性给子组件 */}
+      {/* 传递给子组件 */}
       <A1234 name="水默" age="19" password="4567989" /> 
     </div>
   );
